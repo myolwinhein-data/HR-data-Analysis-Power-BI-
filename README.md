@@ -21,3 +21,4 @@ I studied HR data analysis from free webiner.The project is to analysis headcoun
 - Finally provide meaning insights from the dashboard.
 
 ## Dashboard
+- <a href="https://github.com/myolwinhein-data/HR-Data-Analysis-Power-BI-/blob/main/Headcount.png">Headcount Dashboard</a>
